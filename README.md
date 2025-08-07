@@ -92,7 +92,7 @@ O arquivo ``Program.cs`` contém a lógica principal para demonstrar o uso das c
 
     - Calcula e exibe o valor total com o desconto aplicado.
 
-- ** Cenário 2**: Reserva Válida sem Desconto ✔️
+- **Cenário 2**: Reserva Válida sem Desconto ✔️
 
     - Cria uma lista de hóspedes e uma suíte.
 
